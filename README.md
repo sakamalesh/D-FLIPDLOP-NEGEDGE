@@ -43,7 +43,7 @@ RegisterNumber:
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Exp5 tfp RTL diagram](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/54bc9fbe-75ff-446d-b723-e1cf75b9efde)
+![Exp3 d wave](https://github.com/rakshithaprakashkumar11/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150994181/453dad01-58ca-442d-9881-dcfaf083ec05)
 
 
 **RESULTS**
